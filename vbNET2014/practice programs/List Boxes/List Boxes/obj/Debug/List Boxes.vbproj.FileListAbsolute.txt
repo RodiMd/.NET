@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2012\Projects\List Boxes\List Boxes\bin\Debug\List Boxes.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\List Boxes\List Boxes\bin\Debug\List Boxes.exe
+c:\users\owner\documents\visual studio 2012\Projects\List Boxes\List Boxes\bin\Debug\List Boxes.pdb
+c:\users\owner\documents\visual studio 2012\Projects\List Boxes\List Boxes\bin\Debug\List Boxes.xml
+c:\users\owner\documents\visual studio 2012\Projects\List Boxes\List Boxes\obj\Debug\List_Boxes.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\List Boxes\List Boxes\obj\Debug\List_Boxes.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\List Boxes\List Boxes\obj\Debug\List Boxes.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\List Boxes\List Boxes\obj\Debug\List Boxes.exe
+c:\users\owner\documents\visual studio 2012\Projects\List Boxes\List Boxes\obj\Debug\List Boxes.xml
+c:\users\owner\documents\visual studio 2012\Projects\List Boxes\List Boxes\obj\Debug\List Boxes.pdb

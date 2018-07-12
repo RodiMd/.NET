@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2012\Projects\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.exe
+c:\users\owner\documents\visual studio 2012\Projects\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Sale Price Calculator\Sale Price Calculator\bin\Debug\Sale Price Calculator.xml
+c:\users\owner\documents\visual studio 2012\Projects\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale_Price_Calculator.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale_Price_Calculator.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.exe
+c:\users\owner\documents\visual studio 2012\Projects\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.xml
+c:\users\owner\documents\visual studio 2012\Projects\Sale Price Calculator\Sale Price Calculator\obj\Debug\Sale Price Calculator.pdb

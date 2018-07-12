@@ -1,0 +1,14 @@
+c:\users\owner\documents\visual studio 2012\Projects\Date String\Date String\bin\Debug\Date String.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\Date String\Date String\bin\Debug\Date String.exe
+c:\users\owner\documents\visual studio 2012\Projects\Date String\Date String\bin\Debug\Date String.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Date String\Date String\bin\Debug\Date String.xml
+c:\users\owner\documents\visual studio 2012\Projects\Date String\Date String\obj\Debug\Date_String.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\Date String\Date String\obj\Debug\Date_String.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\Date String\Date String\obj\Debug\Date String.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\Date String\Date String\obj\Debug\Date String.exe
+c:\users\owner\documents\visual studio 2012\Projects\Date String\Date String\obj\Debug\Date String.xml
+c:\users\owner\documents\visual studio 2012\Projects\Date String\Date String\obj\Debug\Date String.pdb
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\MyPrograms\practice programs\Date String\Date String\bin\Debug\Date String.exe.config
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\MyPrograms\practice programs\Date String\Date String\obj\Debug\Date String.exe
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\MyPrograms\practice programs\Date String\Date String\obj\Debug\Date String.xml
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\MyPrograms\practice programs\Date String\Date String\obj\Debug\Date String.pdb

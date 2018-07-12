@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2012\Projects\Months and Days\Months and Days\bin\Debug\Months and Days.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\Months and Days\Months and Days\bin\Debug\Months and Days.exe
+c:\users\owner\documents\visual studio 2012\Projects\Months and Days\Months and Days\bin\Debug\Months and Days.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Months and Days\Months and Days\bin\Debug\Months and Days.xml
+c:\users\owner\documents\visual studio 2012\Projects\Months and Days\Months and Days\obj\Debug\Months_and_Days.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\Months and Days\Months and Days\obj\Debug\Months_and_Days.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\Months and Days\Months and Days\obj\Debug\Months and Days.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\Months and Days\Months and Days\obj\Debug\Months and Days.exe
+c:\users\owner\documents\visual studio 2012\Projects\Months and Days\Months and Days\obj\Debug\Months and Days.xml
+c:\users\owner\documents\visual studio 2012\Projects\Months and Days\Months and Days\obj\Debug\Months and Days.pdb

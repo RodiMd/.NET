@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2012\Projects\Directions\Directions\bin\Debug\Directions.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\Directions\Directions\bin\Debug\Directions.exe
+c:\users\owner\documents\visual studio 2012\Projects\Directions\Directions\bin\Debug\Directions.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Directions\Directions\bin\Debug\Directions.xml
+c:\users\owner\documents\visual studio 2012\Projects\Directions\Directions\obj\Debug\Directions.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\Directions\Directions\obj\Debug\Directions.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\Directions\Directions\obj\Debug\Directions.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\Directions\Directions\obj\Debug\Directions.exe
+c:\users\owner\documents\visual studio 2012\Projects\Directions\Directions\obj\Debug\Directions.xml
+c:\users\owner\documents\visual studio 2012\Projects\Directions\Directions\obj\Debug\Directions.pdb

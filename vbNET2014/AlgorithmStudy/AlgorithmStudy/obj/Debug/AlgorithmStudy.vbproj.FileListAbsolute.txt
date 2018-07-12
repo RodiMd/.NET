@@ -1,0 +1,47 @@
+C:\Users\Rodi\AppData\Local\Temporary Projects\AlgorithmStudy\bin\Debug\AlgorithmStudy.exe.config
+C:\Users\Rodi\AppData\Local\Temporary Projects\AlgorithmStudy\bin\Debug\AlgorithmStudy.exe
+C:\Users\Rodi\AppData\Local\Temporary Projects\AlgorithmStudy\bin\Debug\AlgorithmStudy.pdb
+C:\Users\Rodi\AppData\Local\Temporary Projects\AlgorithmStudy\bin\Debug\AlgorithmStudy.xml
+C:\Users\Rodi\AppData\Local\Temporary Projects\AlgorithmStudy\obj\Debug\AlgorithmStudy.Form1.resources
+C:\Users\Rodi\AppData\Local\Temporary Projects\AlgorithmStudy\obj\Debug\AlgorithmStudy.Resources.resources
+C:\Users\Rodi\AppData\Local\Temporary Projects\AlgorithmStudy\obj\Debug\AlgorithmStudy.vbproj.GenerateResource.Cache
+C:\Users\Rodi\AppData\Local\Temporary Projects\AlgorithmStudy\obj\Debug\AlgorithmStudy.exe
+C:\Users\Rodi\AppData\Local\Temporary Projects\AlgorithmStudy\obj\Debug\AlgorithmStudy.xml
+C:\Users\Rodi\AppData\Local\Temporary Projects\AlgorithmStudy\obj\Debug\AlgorithmStudy.pdb
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.exe.config
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.exe
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.xml
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.pdb
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.exe
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.pdb
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.xml
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.Form1.resources
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.Resources.resources
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.vbproj.GenerateResource.Cache
+C:\Users\Rodi\Desktop\copy\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.exe.config
+C:\Users\Rodi\Desktop\copy\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.exe
+C:\Users\Rodi\Desktop\copy\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.xml
+C:\Users\Rodi\Desktop\copy\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.pdb
+C:\Users\Rodi\Desktop\Projects\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.exe.config
+C:\Users\Rodi\Desktop\Projects\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.exe
+C:\Users\Rodi\Desktop\Projects\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.xml
+C:\Users\Rodi\Desktop\Projects\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.pdb
+C:\Users\Rodi\Desktop\Projects\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.exe
+C:\Users\Rodi\Desktop\Projects\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.pdb
+C:\Users\Rodi\Desktop\Projects\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.xml
+C:\Users\Rodi\Desktop\Projects\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.vbprojResolveAssemblyReference.cache
+C:\Users\Rodi\Desktop\Projects\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.Form1.resources
+C:\Users\Rodi\Desktop\Projects\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.Resources.resources
+C:\Users\Rodi\Desktop\Projects\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.vbproj.GenerateResource.Cache
+C:\Users\rodi_\Desktop\Projects\Vb.NET\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.exe.config
+C:\Users\rodi_\Desktop\Projects\Vb.NET\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.exe
+C:\Users\rodi_\Desktop\Projects\Vb.NET\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.pdb
+C:\Users\rodi_\Desktop\Projects\Vb.NET\AlgorithmStudy\AlgorithmStudy\bin\Debug\AlgorithmStudy.xml
+C:\Users\rodi_\Desktop\Projects\Vb.NET\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.vbprojAssemblyReference.cache
+C:\Users\rodi_\Desktop\Projects\Vb.NET\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.Form1.resources
+C:\Users\rodi_\Desktop\Projects\Vb.NET\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.Resources.resources
+C:\Users\rodi_\Desktop\Projects\Vb.NET\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.vbproj.GenerateResource.cache
+C:\Users\rodi_\Desktop\Projects\Vb.NET\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.vbproj.CoreCompileInputs.cache
+C:\Users\rodi_\Desktop\Projects\Vb.NET\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.exe
+C:\Users\rodi_\Desktop\Projects\Vb.NET\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.xml
+C:\Users\rodi_\Desktop\Projects\Vb.NET\AlgorithmStudy\AlgorithmStudy\obj\Debug\AlgorithmStudy.pdb

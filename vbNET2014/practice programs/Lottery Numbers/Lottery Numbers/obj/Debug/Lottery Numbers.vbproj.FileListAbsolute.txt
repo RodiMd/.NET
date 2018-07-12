@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2012\Projects\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.exe
+c:\users\owner\documents\visual studio 2012\Projects\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Lottery Numbers\Lottery Numbers\bin\Debug\Lottery Numbers.xml
+c:\users\owner\documents\visual studio 2012\Projects\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery_Numbers.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery_Numbers.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.exe
+c:\users\owner\documents\visual studio 2012\Projects\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.xml
+c:\users\owner\documents\visual studio 2012\Projects\Lottery Numbers\Lottery Numbers\obj\Debug\Lottery Numbers.pdb

@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2012\Projects\EconCalcs\EconCalcs\bin\Debug\EconCalcs.exe.config
+C:\Users\Owner\documents\visual studio 2012\Projects\EconCalcs\EconCalcs\bin\Debug\EconCalcs.exe
+C:\Users\Owner\documents\visual studio 2012\Projects\EconCalcs\EconCalcs\bin\Debug\EconCalcs.pdb
+C:\Users\Owner\documents\visual studio 2012\Projects\EconCalcs\EconCalcs\bin\Debug\EconCalcs.xml
+C:\Users\Owner\documents\visual studio 2012\Projects\EconCalcs\EconCalcs\obj\Debug\EconCalcs.Form1.resources
+C:\Users\Owner\documents\visual studio 2012\Projects\EconCalcs\EconCalcs\obj\Debug\EconCalcs.Resources.resources
+C:\Users\Owner\documents\visual studio 2012\Projects\EconCalcs\EconCalcs\obj\Debug\EconCalcs.vbproj.GenerateResource.Cache
+C:\Users\Owner\documents\visual studio 2012\Projects\EconCalcs\EconCalcs\obj\Debug\EconCalcs.exe
+C:\Users\Owner\documents\visual studio 2012\Projects\EconCalcs\EconCalcs\obj\Debug\EconCalcs.xml
+C:\Users\Owner\documents\visual studio 2012\Projects\EconCalcs\EconCalcs\obj\Debug\EconCalcs.pdb

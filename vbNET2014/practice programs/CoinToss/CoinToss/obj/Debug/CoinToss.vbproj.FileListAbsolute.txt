@@ -1,0 +1,14 @@
+c:\users\owner\documents\visual studio 2012\Projects\CoinToss\CoinToss\bin\Debug\CoinToss.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\CoinToss\CoinToss\bin\Debug\CoinToss.exe
+c:\users\owner\documents\visual studio 2012\Projects\CoinToss\CoinToss\bin\Debug\CoinToss.pdb
+c:\users\owner\documents\visual studio 2012\Projects\CoinToss\CoinToss\bin\Debug\CoinToss.xml
+c:\users\owner\documents\visual studio 2012\Projects\CoinToss\CoinToss\obj\Debug\CoinToss.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\CoinToss\CoinToss\obj\Debug\CoinToss.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\CoinToss\CoinToss\obj\Debug\CoinToss.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\CoinToss\CoinToss\obj\Debug\CoinToss.exe
+c:\users\owner\documents\visual studio 2012\Projects\CoinToss\CoinToss\obj\Debug\CoinToss.xml
+c:\users\owner\documents\visual studio 2012\Projects\CoinToss\CoinToss\obj\Debug\CoinToss.pdb
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\MyPrograms\practice programs\CoinToss\CoinToss\bin\Debug\CoinToss.exe.config
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\MyPrograms\practice programs\CoinToss\CoinToss\obj\Debug\CoinToss.exe
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\MyPrograms\practice programs\CoinToss\CoinToss\obj\Debug\CoinToss.xml
+C:\Users\Rodi\Documents\Visual Studio 2012\Projects\MyPrograms\practice programs\CoinToss\CoinToss\obj\Debug\CoinToss.pdb

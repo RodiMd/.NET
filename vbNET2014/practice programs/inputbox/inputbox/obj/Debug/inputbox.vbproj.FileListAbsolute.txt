@@ -1,0 +1,4 @@
+c:\users\owner\documents\visual studio 2012\Projects\inputbox\inputbox\bin\Debug\inputbox.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\inputbox\inputbox\obj\Debug\inputbox.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\inputbox\inputbox\obj\Debug\inputbox.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\inputbox\inputbox\obj\Debug\inputbox.vbproj.GenerateResource.Cache

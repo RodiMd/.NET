@@ -1,0 +1,10 @@
+c:\users\owner\documents\visual studio 2012\Projects\Friends List\Friends List\bin\Debug\Friends List.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\Friends List\Friends List\bin\Debug\Friends List.exe
+c:\users\owner\documents\visual studio 2012\Projects\Friends List\Friends List\bin\Debug\Friends List.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Friends List\Friends List\bin\Debug\Friends List.xml
+c:\users\owner\documents\visual studio 2012\Projects\Friends List\Friends List\obj\Debug\Friends_List.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\Friends List\Friends List\obj\Debug\Friends_List.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\Friends List\Friends List\obj\Debug\Friends List.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\Friends List\Friends List\obj\Debug\Friends List.exe
+c:\users\owner\documents\visual studio 2012\Projects\Friends List\Friends List\obj\Debug\Friends List.xml
+c:\users\owner\documents\visual studio 2012\Projects\Friends List\Friends List\obj\Debug\Friends List.pdb

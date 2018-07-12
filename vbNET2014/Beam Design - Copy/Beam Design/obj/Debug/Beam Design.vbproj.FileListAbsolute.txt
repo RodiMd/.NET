@@ -1,0 +1,13 @@
+c:\users\owner\documents\visual studio 2012\Projects\Beam Design\Beam Design\bin\Debug\Beam Design.exe.config
+C:\Users\Owner\documents\visual studio 2012\Projects\Beam Design\Beam Design\bin\Debug\Beam Design.exe
+C:\Users\Owner\documents\visual studio 2012\Projects\Beam Design\Beam Design\bin\Debug\Beam Design.pdb
+C:\Users\Owner\documents\visual studio 2012\Projects\Beam Design\Beam Design\bin\Debug\Beam Design.xml
+C:\Users\Owner\documents\visual studio 2012\Projects\Beam Design\Beam Design\obj\Debug\Beam_Design.Resources.resources
+C:\Users\Owner\documents\visual studio 2012\Projects\Beam Design\Beam Design\obj\Debug\Beam Design.vbproj.GenerateResource.Cache
+C:\Users\Owner\documents\visual studio 2012\Projects\Beam Design\Beam Design\obj\Debug\Beam Design.exe
+C:\Users\Owner\documents\visual studio 2012\Projects\Beam Design\Beam Design\obj\Debug\Beam Design.xml
+C:\Users\Owner\documents\visual studio 2012\Projects\Beam Design\Beam Design\obj\Debug\Beam Design.pdb
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Beam Design\Beam Design\obj\Debug\Beam_Design.Main_Form.resources
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Beam Design\Beam Design\obj\Debug\Beam_Design.frmBalBeamDesign.resources
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Beam Design\Beam Design\obj\Debug\Beam_Design.frmYieldBeamDesign.resources
+C:\Users\Owner\documents\visual studio 2012\Projects\Beam Design\Beam Design\obj\Debug\Beam_Design.frmTensionControlled.resources
